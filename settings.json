@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "BnpsMinecraft.aternos.me",
+    "port": 29778,
     "version": "1.20.1",
     "try-creative": false
   },
